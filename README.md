@@ -1,11 +1,11 @@
 <div align="center">
 
   <a href="https://github.com/sarukhmazari">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=2563EB&center=true&vCenter=true&width=600&lines=I+am+Sarukh+Mazari;Python+%26+SQL+Developer;HTML+%26+CSS+Web+Development;Backend+%26+Automation+Engineer" alt="Typing Header" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=2563EB&center=true&vCenter=true&width=600&lines=I+am+Sarukh+Mazari;AI+%26+Machine+Learning+Engineer;Data+Scientist;Python+Developer" alt="Typing Header" />
   </a>
 
   <p align="center">
-    <strong>Software Developer focused on Python backend engineering, SQL databases, and web interface development.</strong>
+    <strong>AI & Machine Learning Engineer, Data Scientist, and Python Developer specialized in predictive modeling, data pipelines, and intelligent automation systems.</strong>
   </p>
 
   <p align="center">
@@ -20,9 +20,9 @@
 
 ### Profile Summary
 
-Software developer specialized in building automated backend solutions, managing relational databases, and constructing clean web interfaces using Python, SQL, HTML, and CSS.
+AI & Machine Learning Engineer and Data Scientist focused on training predictive algorithms, analyzing complex datasets, engineering scalable data workflows, and developing production-ready Python solutions.
 
-- **Primary Stack**: Python, SQL, HTML, CSS
+- **Primary Focus**: Machine Learning, Data Science, Python Development, Database Architecture
 - **Location**: Lahore, Pakistan
 - **Contact**: [sarukhmazari1@gmail.com](mailto:sarukhmazari1@gmail.com)
 
@@ -30,11 +30,19 @@ Software developer specialized in building automated backend solutions, managing
 
 ### Core Technologies
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+#### Programming & Query Languages
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+#### AI, Machine Learning & Data Science
+<p>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
 </p>
 
 ---
